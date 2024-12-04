@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Suresh Jala </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/jala-suresh-439188267/" target="_blank" rel="noreferrer">Suresh</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 2+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/jala-suresh-439188267/" target="_blank" rel="noreferrer">Suresh</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps for 2+ years now. Feel free to reach out.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
